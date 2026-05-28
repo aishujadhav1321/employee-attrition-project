@@ -1,0 +1,21 @@
+Age,Gender,Department,JobRole,MonthlyIncome,YearsAtCompany,JobSatisfaction,WorkLifeBalance,Overtime,PerformanceRating,Attrition
+25,Male,Sales,Sales Executive,3000,1,2,2,Yes,3,Yes
+32,Female,IT,Software Engineer,6500,5,4,3,No,4,No
+28,Male,HR,HR Executive,4000,2,3,2,Yes,3,Yes
+45,Female,Finance,Manager,12000,15,4,4,No,5,No
+30,Male,IT,Data Analyst,5500,4,3,3,No,4,No
+26,Female,Sales,Sales Representative,3200,1,2,2,Yes,2,Yes
+39,Male,IT,Team Lead,9000,10,4,4,No,5,No
+29,Female,HR,Recruiter,4200,3,3,3,No,3,No
+35,Male,Finance,Accountant,7000,7,2,2,Yes,3,Yes
+41,Female,IT,Project Manager,11000,12,4,4,No,5,No
+27,Male,Sales,Sales Executive,3500,2,2,2,Yes,3,Yes
+33,Female,IT,Software Engineer,7200,6,4,3,No,4,No
+31,Male,HR,HR Manager,8500,8,3,3,No,4,No
+24,Female,Sales,Sales Representative,2800,1,1,2,Yes,2,Yes
+38,Male,Finance,Financial Analyst,8000,9,4,4,No,5,No
+29,Female,IT,Data Scientist,9500,5,4,3,No,5,No
+34,Male,Sales,Sales Manager,10000,11,3,3,Yes,4,Yes
+42,Female,HR,HR Director,13000,16,5,4,No,5,No
+23,Male,IT,Intern,2500,1,2,2,Yes,2,Yes
+37,Female,Finance,Manager,11500,13,4,4,No,5,No
